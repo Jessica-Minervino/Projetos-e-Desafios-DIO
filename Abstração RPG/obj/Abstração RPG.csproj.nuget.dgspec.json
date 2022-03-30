@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\augus\\OneDrive\\Área de Trabalho\\Projetos e Desafios DIO 1\\Abstração RPG\\Abstração RPG.csproj": {}
+    "C:\\Users\\augus\\OneDrive\\Área de Trabalho\\Projetos e Desafios DIO\\Abstração RPG\\Abstração RPG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\augus\\OneDrive\\Área de Trabalho\\Projetos e Desafios DIO 1\\Abstração RPG\\Abstração RPG.csproj": {
+    "C:\\Users\\augus\\OneDrive\\Área de Trabalho\\Projetos e Desafios DIO\\Abstração RPG\\Abstração RPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\augus\\OneDrive\\Área de Trabalho\\Projetos e Desafios DIO 1\\Abstração RPG\\Abstração RPG.csproj",
+        "projectUniqueName": "C:\\Users\\augus\\OneDrive\\Área de Trabalho\\Projetos e Desafios DIO\\Abstração RPG\\Abstração RPG.csproj",
         "projectName": "Abstração RPG",
-        "projectPath": "C:\\Users\\augus\\OneDrive\\Área de Trabalho\\Projetos e Desafios DIO 1\\Abstração RPG\\Abstração RPG.csproj",
+        "projectPath": "C:\\Users\\augus\\OneDrive\\Área de Trabalho\\Projetos e Desafios DIO\\Abstração RPG\\Abstração RPG.csproj",
         "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\augus\\OneDrive\\Área de Trabalho\\Projetos e Desafios DIO 1\\Abstração RPG\\obj\\",
+        "outputPath": "C:\\Users\\augus\\OneDrive\\Área de Trabalho\\Projetos e Desafios DIO\\Abstração RPG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -30,12 +30,14 @@ namespace AbstraçãoRPG
 
       public override string ToString()
       {
-          return this.Name + " " + this.level + " " + this.heroType;
+          return "NAME: " +  this.Name + " | " + "LEVEL: " + this.level + " | " + "HERO TYPE: " + this.heroType + " | " + "SPECIAL POWER: " + this.specialPower + " | " + "XP: " + this.XP + " | " + "ENERGY: " + this.energy;
+
       }
          public virtual string attack()
          {
 
-          return this.Name + " Atacou com o seu poder de";
+         return this.Name + " Atacou com o seu poder de";
+
          }
 
 

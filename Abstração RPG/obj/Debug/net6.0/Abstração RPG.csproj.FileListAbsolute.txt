@@ -13,3 +13,18 @@ C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO 1\Abstração 
 C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO 1\Abstração RPG\obj\Debug\net6.0\Abstração RPG.pdb
 C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO 1\Abstração RPG\obj\Debug\net6.0\Abstração RPG.genruntimeconfig.cache
 C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO 1\Abstração RPG\obj\Debug\net6.0\ref\Abstração RPG.dll
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\bin\Debug\net6.0\Abstração RPG.exe
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\bin\Debug\net6.0\Abstração RPG.deps.json
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\bin\Debug\net6.0\Abstração RPG.runtimeconfig.json
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\bin\Debug\net6.0\Abstração RPG.dll
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\bin\Debug\net6.0\Abstração RPG.pdb
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\obj\Debug\net6.0\Abstração RPG.csproj.AssemblyReference.cache
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\obj\Debug\net6.0\Abstração RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\obj\Debug\net6.0\Abstração RPG.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\obj\Debug\net6.0\Abstração RPG.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\obj\Debug\net6.0\Abstração RPG.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\obj\Debug\net6.0\Abstração RPG.dll
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\obj\Debug\net6.0\refint\Abstração RPG.dll
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\obj\Debug\net6.0\Abstração RPG.pdb
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\obj\Debug\net6.0\Abstração RPG.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Área de Trabalho\Projetos e Desafios DIO\Abstração RPG\obj\Debug\net6.0\ref\Abstração RPG.dll
